@@ -43,7 +43,7 @@ This repository is intended to:
 ## Author
 
 Aditya Kumar  
-GitHub: https://github.com/adityaKumar9798
+GitHub: https://github.com/adityaKumar9798/warmup-first-repo
 
 ---
 
